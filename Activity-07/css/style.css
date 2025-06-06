@@ -11,9 +11,18 @@ p {
     color: navy;
     margin-left: 20px;
 }
+
+
 img {
     border: 3px solid black;
+    width: 100%;
+
 }
 footer {
     background-color: #ccb0b0;
+}
+
+.pic {
+    width: 90%;
+    margin: 0 auto;
 }
